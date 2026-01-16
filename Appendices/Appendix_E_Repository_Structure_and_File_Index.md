@@ -1,4 +1,4 @@
-# Appendix E — Repository Structure & File Index
+s see w# Appendix E — Repository Structure & File Index
 
 ## E.1 — Top-Level Repository Tree
 
